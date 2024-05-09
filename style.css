@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: lightblue;
+}
+
+h1 {
+    color: blue;
+    background-color: lightblue;
+    border-radius: 15px;
+    border: solid 1px blue;
+    text-align: center;
+}
+
+footer p{
+    background-color: lightgreen;
+    color: black;
+    border: green 1px solid;
+}
+
+nav a{
+    margin: 20px;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+nav{
+    background-color: lightgreen;
+    margin: 20px;
+    font-size: 20px;
+    border: 2px solid blue;
+    padding: 10px;
+}
+
+p {
+    background-color: lightgreen;
+}
+
+.Seasonal offer{
+    color: blue;
+}
